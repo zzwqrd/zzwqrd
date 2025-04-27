@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm</h1>
+<h1 align="center">Hi there</h1>
 
 <p align="center">
   <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub Profile"></a>
