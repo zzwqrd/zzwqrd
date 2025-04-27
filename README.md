@@ -44,16 +44,13 @@ I'm a **Flutter Developer** with a strong background in both **Frontend** and **
 ---
 
 ### 👨‍💻 Projects:
-- **[Project 1]**: A Flutter-based mobile application that focuses on [brief description].
-- **[Project 2]**: A Laravel-powered backend API for managing [brief description].
-- **[Project 3]**: A WordPress website with custom themes and plugins.
+
 
 ---
 
 ### 📝 Contact Me:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Website: [Personal Website](https://www.yourwebsite.com)
+- Email: [your-email@example.com](mailto:)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/zein-04025a1b6/)
 
 ---
 
@@ -70,10 +67,4 @@ Since **2020**, I've been actively involved in developing mobile applications us
 
 ---
 
-### ⚡ Fun Fact:
-I started learning programming as a hobby and now it's my passion! 🚀
 
----
-
-### 🤝 Let's Connect:
-Feel free to reach out if you'd like to collaborate or just chat about tech! 😊
