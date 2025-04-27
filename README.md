@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm [Your Name]</h1>
+<h1 align="center">Hi there! I'm</h1>
 
 <p align="center">
   <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub Profile"></a>
@@ -62,6 +62,15 @@ I'm a **Flutter Developer** with a strong background in both **Frontend** and **
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="GitHub Streak" />
 </div>
+
+---
+
+### 📱 Mobile Development Experience:
+Since **2020**, I've been actively involved in developing mobile applications using **Flutter** and **Dart**. Here are some highlights of my work:
+
+#### Featured Projects:
+- **Movie App**: A clean and modern movie application built with Flutter, featuring a robust architecture and seamless integration with APIs.
+- **Flutter Flavor**: A demo project showcasing how to implement different app flavors in Flutter, complete with Dart code and detailed documentation.
 
 ---
 
